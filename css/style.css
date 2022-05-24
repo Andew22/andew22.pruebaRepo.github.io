@@ -3,3 +3,17 @@
 h1{
     background-color: red;
 }
+
+
+ul{
+background-color: blue;
+display: flex;
+flex-direction: row;
+gap: 20px;
+color:white;
+font-size: 30px;
+}
+
+nav ul li{
+    list-style: none;
+}
