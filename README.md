@@ -15,9 +15,9 @@ repositorio con fines de pruebas
    <td>1</td>
   </tr> 
   
-  ´´´bash
+  <code>
     console.log("pepito")
  
-  ´´´´
+   </code>
    
  </table>
